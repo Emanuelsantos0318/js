@@ -1,0 +1,49 @@
+body{
+    background: linear-gradient(red,blue)
+}
+h2{
+   text-align:center;
+   font-size: 40px;
+   color:white;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+hr{
+   height: 2px; 
+   background-color:rgb(255, 255, 255);
+   width: 50%;
+   
+}
+p{
+    color: rgb(190, 183, 183);
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+marquee{
+    color: white;
+}
+.propaganda{
+    color: rgb(255, 30, 0);
+}
+img{
+    width: 300px;
+    display: block;
+    margin: auto;
+
+}
+.barra{
+    width: 100%;
+}
+#videozinho{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+.titulo{
+    display: block;
+    margin: auto;
+    width: 450px;
+}
+#cogumelo{
+    width: 50px;
+}
